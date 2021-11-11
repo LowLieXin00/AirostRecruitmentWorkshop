@@ -105,14 +105,5 @@ while_loop_2(user_input)
 '''
 
 
-num_list = [3, 6, 9]
-
-num_array = np.array([3, 6, 9])
-print(len(num_array))
-print(type(num_list))
-print(type(num_array))
-print(num_array/3)
-
-
 
 
